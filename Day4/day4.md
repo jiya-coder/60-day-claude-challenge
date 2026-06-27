@@ -38,7 +38,7 @@ This repository documents a 6-month, milestone-based roadmap for a student with 
 4. Revisit and refine milestones at the end of each month based on actual pace vs. plan
 5. After Month 6, evaluate whether a follow-up roadmap (interview prep, negotiation, role-specific specialization) is needed
 
-[Click here to view the PDF Document](./downloads/AI_Engineer_Roadmap.pdf)
+[Click here to view the PDF Document](./AI_Engineer_Roadmap.pdf)
 
 
 ---
